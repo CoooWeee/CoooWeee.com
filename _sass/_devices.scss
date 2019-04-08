@@ -34,6 +34,23 @@
 }
 
 //
+// google pixel 3
+//
+
+.device.google-pixel-3 {
+  width: 288px;
+  height: 608px;
+  background-image: url(../../images/devices/google-pixel-3.png);
+}
+
+
+.device.google-pixel-3 .app-screenshot {
+  top: 91px;
+  left: 25px;
+  width: 240px;
+}
+
+//
 // iPhone SE Silver Vertical
 //
 
@@ -42,6 +59,8 @@
   height: 608px;
   background-image: url(../../images/devices/iphone-se-silver-vertical.png);
 }
+
+
 .device.iphone-se-silver-vertical .app-screenshot {
   top: 91px;
   left: 25px;
