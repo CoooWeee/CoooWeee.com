@@ -42,7 +42,7 @@ app:
 #
 # Marketing
 #
-marketing_header: The community connections app # Optional
+marketing_header: The community connection app # Optional
 marketing_desc: Meeting local groups spontaneously to do AWESOME stuff.
 
 #
@@ -93,7 +93,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: CoooWeee - The community connections # Optional - Enter your site title
+title: CoooWeee - The community connection # Optional - Enter your site title
 description: Meeting local groups spontaneously to do AWESOME stuff. # Optional - Enter your site description
 
 #
