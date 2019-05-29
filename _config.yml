@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: CoooWeee # REQUIRED - Enter your app name
+  name: CoooWeee - Finding your community# REQUIRED - Enter your app name
   #ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.thundertarsier.coooweee # Optional - Enter Android app id like: com.example.app
 
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: The community connection app # Optional
-marketing_desc: Meeting local groups spontaneously to do AWESOME stuff.
+marketing_header: The community connection android app # Optional
+marketing_desc: With CoooWeee you can meet local groups spontaneously to do awesome activities and share great moments.
 
 #
 # Social Links
@@ -93,7 +93,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: CoooWeee - The community connection # Optional - Enter your site title
+title: CoooWeee - The community connection app # Optional - Enter your site title
 description: Meeting local groups spontaneously to do AWESOME stuff. # Optional - Enter your site description
 
 #
