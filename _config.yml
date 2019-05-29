@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: CoooWeee - Finding your community# REQUIRED - Enter your app name
+  name: CoooWeee - Finding your community # REQUIRED - Enter your app name
   #ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.thundertarsier.coooweee # Optional - Enter Android app id like: com.example.app
 
@@ -93,13 +93,13 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: CoooWeee - The community connection app # Optional - Enter your site title
+title: CoooWeee # Optional - Enter your site title
 description: Meeting local groups spontaneously to do AWESOME stuff. # Optional - Enter your site description
 
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-141120153-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # !! You don't need to change any of the configuration flags below !!
