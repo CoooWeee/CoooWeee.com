@@ -27,6 +27,8 @@ app:
   # e.g. images/app-screen-640x1136.png
   # 640x1136px
 
+  googleSiteVerification: tKgOuCjwpk8LPMrptNGKHlXOfo2eE2guHqaxXu2Hp5U
+
   #video: # uncomment if prefer to show a video preview in the screen instead of image
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-preview.mp4
